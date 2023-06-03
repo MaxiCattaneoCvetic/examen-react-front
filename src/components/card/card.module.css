@@ -1,0 +1,29 @@
+section{
+    margin-top: 1rem;
+    box-shadow: 50%;
+    position: relative;
+    display: flex;
+    border-radius: 10%;
+    flex-direction: column;
+}
+
+.reload{
+    position: absolute;
+    left: 1rem;
+}
+
+a button{
+    position: relative;
+    left: 35rem;
+    bottom: 46rem;
+    z-index: 10;
+    border: 10px solid rgb(73, 73, 199);
+
+}
+
+a button:hover{
+    transition: 1s;
+    font-size: 1.5rem;
+    border: 5px solid rgb(79, 79, 212)
+
+}
