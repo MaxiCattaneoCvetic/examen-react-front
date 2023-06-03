@@ -1,4 +1,4 @@
-¡Que tipo de programador sos?
+¿Que tipo de programador sos?
 
 Si nunca te lo preguntaste, te invito a usar mi web app hecha con react, para el parcial de Front :)
 
