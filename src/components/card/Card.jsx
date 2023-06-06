@@ -2,7 +2,7 @@ import { useState } from "react"
 import styles from "../card/card.module.css"
 
 function Card (props) {
-
+    console.log("render");
     function setNewNumber (){
         setNumeroAleatorio()
         let newNumber = Math.floor(Math.random() * 3);
